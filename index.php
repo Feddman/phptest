@@ -47,7 +47,7 @@ $productlines = $db->getAll();
 					<li><?= $product->productName ?></li>
 				<?php endforeach;?>				
 			</ul>
-
+  
 		<?php endforeach; ?>
 	
 
